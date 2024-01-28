@@ -1,0 +1,6 @@
+Player Argumentt:
+
+["ARGUMENT_NAME"] = {
+	Type = "player",
+	Field = {}
+},
